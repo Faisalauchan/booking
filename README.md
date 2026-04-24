@@ -740,7 +740,7 @@ This penetration testing guide provides a comprehensive framework for assessing 
 
 ---
 
-**Last Updated:** [Current Date]  
+**Last Updated:** 2026  
 **Version:** 1.0  
-**Prepared By:** [Your Name/Organization]  
-**Contact:** [Your Contact Information]
+**Prepared By:** Faisal Imran Auchan  
+**Contact:** linkedin.com/in/faisal-imran-auchan
